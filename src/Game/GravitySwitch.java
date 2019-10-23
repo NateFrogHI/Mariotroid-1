@@ -25,6 +25,9 @@ public class GravitySwitch extends Interactive {
       setComplete(true);
     }
   }
+<<<<<<< HEAD
+}
+=======
   
   public void toggleOff(){
       setColor(new float[] { 0.5f, 0.3f, 0.8f });
@@ -32,3 +35,4 @@ public class GravitySwitch extends Interactive {
       setComplete(false);
   }
 }
+>>>>>>> f7345177cbc7f8ab84f078ac97a00f2a69ccfc4e
